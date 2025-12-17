@@ -5,3 +5,4 @@ pandas
 numpy
 folium
 st_folium
+streamlit_folium
